@@ -1,0 +1,13 @@
+{
+  "name": "Baserow",
+  "source": "https://baserow.io/",
+  "docker_image": "baserow/baserow:2.4.3",
+  "version": "2.4.3",
+  "repository": "https://github.com/waskevin/tnas-app-baserow",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "Baserow container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
+}
